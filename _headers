@@ -15,3 +15,6 @@ https://:zbll-trainer-samsepi0l.netlify.app/*
 
 /*.js
   Access-Control-Allow-Origin: *
+
+/*.css
+  Access-Control-Allow-Origin: *
