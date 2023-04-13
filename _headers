@@ -4,6 +4,7 @@
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   X-XSS-Protection : 0
+  X-Frame-Options: DENY
   Permissions-Policy : accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), clipboard-read=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), sync-xhr=(), xr-spatial-tracking=()
   Cross-Origin-Resource-Policy : cross-origin
   Cross-Origin-Embedder-Policy : unsafe-none
@@ -12,3 +13,5 @@
 https://:zbll-trainer-samsepi0l.netlify.app/*
   X-Robots-Tag: noindex
 
+/*.js
+  Access-Control-Allow-Origin: *
