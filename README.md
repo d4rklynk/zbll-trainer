@@ -1,5 +1,5 @@
 # ZBLL trainer
-## https://bestsiteever.ru/zbll/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f26772e-05cb-45e0-b9cb-0f5dbb9874e5/deploy-status)](https://app.netlify.com/sites/zbll-trainer-samsepi0l/deploys)
 
 ![zbll trainer demo](images/demo.gif)
 
