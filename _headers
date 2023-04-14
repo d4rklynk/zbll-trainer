@@ -21,5 +21,5 @@ https://:zbll-trainer-samsepi0l.netlify.app/*
   Content-Security-Policy : default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'
   Access-Control-Allow-Origin: https://zbll.samsepi0l.dev
 
-/scripts/timer.js?v18b
+/scripts/timer.js*
   Content-Security-Policy : default-src 'none'; connect-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; img-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; frame-ancestors 'self' https://bestsiteever.ru
