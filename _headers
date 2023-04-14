@@ -22,4 +22,4 @@ https://:zbll-trainer-samsepi0l.netlify.app/*
   Access-Control-Allow-Origin: https://zbll.samsepi0l.dev
 
 /scripts/timer.js?v18b
-  Content-Security-Policy : default-src 'none'; connect-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; sript-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; img-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; frame-ancestors 'self' https://bestsiteever.ru
+  Content-Security-Policy : default-src 'none'; connect-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; script-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; img-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; frame-ancestors 'self' https://bestsiteever.ru
