@@ -13,6 +13,9 @@
 https://:zbll-trainer-samsepi0l.netlify.app/*
   X-Robots-Tag: noindex
 
+/scripts/timer.js?v18b
+  Content-Security-Policy : default-src 'none'; connect-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; script-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; img-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; frame-ancestors 'self' https://bestsiteever.ru
+
 /scripts/*.js
   Content-Security-Policy : default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'
   Access-Control-Allow-Origin: https://zbll.samsepi0l.dev
@@ -20,6 +23,3 @@ https://:zbll-trainer-samsepi0l.netlify.app/*
 /styles/*.css
   Content-Security-Policy : default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'
   Access-Control-Allow-Origin: https://zbll.samsepi0l.dev
-
-/scripts/timer.js?v18b
-  Content-Security-Policy : default-src 'none'; connect-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; script-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; img-src 'self' https://bestsiteever.ru/visualcube/visualcube.php; frame-ancestors 'self' https://bestsiteever.ru
